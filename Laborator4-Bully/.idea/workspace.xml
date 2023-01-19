@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95a6c7ee-f74f-47e0-8f6b-4150111c9cf9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Laborator2-UDP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Laborator2-UDP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator2-UDP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator2-UDP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator3-HeartBeat/src/main/java/org/example/HeartBeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator3-HeartBeat/src/main/java/org/example/HeartBeat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator3-HeartBeat/target/classes/org/example/HeartBeat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator3-HeartBeat/target/classes/org/example/HeartBeat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -37,8 +40,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;F:/DistributiveSystems/SstemeDistribuite/Laborator4-Bully/src&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/DistributiveSystems/SstemeDistribuite/Laborator5-RMI&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
@@ -46,8 +49,10 @@
 }</component>
   <component name="RunManager">
     <configuration name="BullyAlg" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-19" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="org.example.BullyAlg" />
-      <module name="Lab4" />
+      <module name="Laborator4-Bully" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.*" />
@@ -91,6 +96,9 @@
       <workItem from="1672593698135" duration="14000" />
       <workItem from="1672823812673" duration="122000" />
       <workItem from="1673618206797" duration="138000" />
+      <workItem from="1673618463784" duration="1305000" />
+      <workItem from="1673629481312" duration="26000" />
+      <workItem from="1674079698127" duration="185000" />
     </task>
     <servers />
   </component>

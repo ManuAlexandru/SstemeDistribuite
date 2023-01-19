@@ -3,9 +3,7 @@ package org.example;
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
 import java.io.IOException;
-import java.net.ServerSocket;
-import java.net.Socket;
-import java.net.UnknownHostException;
+import java.net.*;
 import java.util.HashMap;
 
 public class HeartBeat implements  Runnable{
@@ -38,10 +36,10 @@ public class HeartBeat implements  Runnable{
 
         while (true) {
 //            // se identifica adresa IP
-//            try (final DatagramSocket socket = new DatagramSocket()) {
-//                socket.connect(InetAddress.getByName("8.8.8.8"), 10002);
-//                my_ip = socket.getLocalAddress().getHostAddress();
-//            }
+            try (final DatagramSocket socket = new DatagramSocket()) {
+                socket.connect(InetAddress.getByName("8.8.8.8"), 10002);
+                my_ip = socket.getLocalAddress().getHostAddress();
+            }
         } // bucla principala
     }
 
