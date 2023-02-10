@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95a6c7ee-f74f-47e0-8f6b-4150111c9cf9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Laborator2-UDP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator2-UDP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laborator3-HeartBeat/src/main/java/org/example/HeartBeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator3-HeartBeat/src/main/java/org/example/HeartBeat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laborator3-HeartBeat/target/classes/org/example/HeartBeat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator3-HeartBeat/target/classes/org/example/HeartBeat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator5-RMI/src/main/java/org/example/RMIClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator5-RMI/src/main/java/org/example/RMIClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator5-RMI/target/classes/org/example/RMIClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator5-RMI/target/classes/org/example/RMIClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laborator5-RMI/target/classes/org/example/RMIServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Laborator5-RMI/target/classes/org/example/RMIServer.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +98,7 @@
       <workItem from="1673618463784" duration="1305000" />
       <workItem from="1673629481312" duration="26000" />
       <workItem from="1674079698127" duration="185000" />
+      <workItem from="1674167472256" duration="136000" />
     </task>
     <servers />
   </component>

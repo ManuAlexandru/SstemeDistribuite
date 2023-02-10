@@ -9,7 +9,7 @@ public class RMIClient {
     public static void main(String args[]) {
 
         try {
-            int a[] = {1, 2, 3};
+            int a[] = {5,10,15};
             adunare = (Adunare) Naming.lookup("//" + "localhost" + "/add");
             rez = adunare.addNumbers(a);
             System.out.println("rezultatul adunarii vectorilor folosind RMI: " + rez);
