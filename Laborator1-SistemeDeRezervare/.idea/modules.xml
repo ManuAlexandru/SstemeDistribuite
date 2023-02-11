@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClientLab1/ClientLab1.iml" filepath="$PROJECT_DIR$/ClientLab1/ClientLab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Laborator1-SistemeDeRezervare.iml" filepath="$PROJECT_DIR$/.idea/Laborator1-SistemeDeRezervare.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServerLab1/ServerLab1.iml" filepath="$PROJECT_DIR$/ServerLab1/ServerLab1.iml" />
+    </modules>
+  </component>
+</project>
